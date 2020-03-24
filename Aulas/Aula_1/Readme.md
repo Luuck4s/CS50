@@ -4,11 +4,11 @@ JavaScript é uma linguagem **interpretada**, executada linha por linha, o respo
 
 ## Sintaxe 
 
-[Sintaxe](https://github.com/Luuck4s/CS50-Mobile-Development-RN/Aulas/Aula_1/0-sintaxe.js)
+[Sintaxe](https://github.com/Luuck4s/CS50-Mobile-Development-RN/blob/master/Aulas/Aula_1/0-sintaxe.js)
 
 ## Tipos
 	
-[Tipos](https://github.com/Luuck4s/CS50-Mobile-Development-RN/Aulas/Aula_1/1-tipos.js)
+[Tipos](https://github.com/Luuck4s/CS50-Mobile-Development-RN/blob/master/Aulas/Aula_1/1-tipos.js)
 
 O javaScript tem uma tipagem dinâmica, não é necessário declarar o tipo da variável pois isto é definido automaticamente em tempo de execução. 
 
@@ -83,7 +83,7 @@ Tudo no javaScript é object.
 
 ### Objects
 
-[Objects](https://github.com/Luuck4s/CS50-Mobile-Development-RN/Aulas/Aula_1/2-objects.js)
+[Objects](https://github.com/Luuck4s/CS50-Mobile-Development-RN/blob/master/Aulas/Aula_1/2-objects.js)
 
 
 ### Diferença entre const, let e var
@@ -127,7 +127,7 @@ Tudo no javaScript é object.
 
 ### Escopo 
 
-[Escopo](https://github.com/Luuck4s/CS50-Mobile-Development-RN/Aulas/Aula_1/4-escopo.js)
+[Escopo](https://github.com/Luuck4s/CS50-Mobile-Development-RN/blob/master/Aulas/Aula_1/4-escopo.js)
 
 - Escopo é o tempo de vida das variáveis. 
 	- lexical scoping (**var**): Existe desde o começo da função/arquivo e fica ate o final.
@@ -144,6 +144,6 @@ O objeto global do JavaScript no navegador é o `window` onde fica declarado tod
 
 ### Closures
 
-[Closure](https://github.com/Luuck4s/CS50-Mobile-Development-RN/Aulas/Aula_1/5-closure.js)
+[Closure](https://github.com/Luuck4s/CS50-Mobile-Development-RN/blob/master/Aulas/Aula_1/5-closure.js)
 
 Closures são funções declaras dentro de funções com acesso a todas as variáveis de sua função pai, isto é possível por conta do  escopo. 
