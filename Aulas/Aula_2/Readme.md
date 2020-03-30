@@ -39,7 +39,7 @@ JavaScript é single-threaded, é uma linguagem síncrona. Mas existe algumas fu
 [stack](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_2/4-stack.js)
 
 <p align="center">
-	<img src="https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_2/.github/stack.png" alt="Stack" >
+	<img src="https://github.com/Luuck4s/CS50-Mobile-Development-RN/blob/master/Aulas/Aula_2/.github/stack.png?raw=true" alt="Stack" >
 </p>
 
 
@@ -64,7 +64,7 @@ Para execução da **stack** as atividades são passadas em formato de fila, cas
 ```
 
 <p align="center">
-	<img src="https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_2/.github/stack_2.png" alt="Stack 2" >
+	<img src="https://github.com/Luuck4s/CS50-Mobile-Development-RN/blob/master/Aulas/Aula_2/.github/stack_2.png?raw=true" alt="Stack 2" >
 </p>
 
 
@@ -107,5 +107,5 @@ No javaScript o `this` utilizado dentro de um objeto referencia o objeto mas se 
 A DOM é a árvore de elementos do HTML, como eles são organizados e com isso podemos utilizar o javascript para modificar o HTML.
 
 <p align="center">
-	<img src="https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_2/.github/dom.png" alt="DOM" >
+	<img src="https://github.com/Luuck4s/CS50-Mobile-Development-RN/blob/master/Aulas/Aula_2/.github/dom.png?raw=true" alt="DOM" >
 </p>
