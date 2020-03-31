@@ -9,3 +9,5 @@
 ### [:fire: Aula 3 - React, Props e State](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_3)
 
 ### [:satellite: Aula 4 - React Native](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_4)
+
+### [:dizzy: Aula 5 - Listas, Entrada de dados](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_5)

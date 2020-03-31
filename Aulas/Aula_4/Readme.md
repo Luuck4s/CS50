@@ -97,3 +97,9 @@ React Native é um framework que utiliza o React para construção de aplicaçõ
 ## Expo 
 
 Expo é uma forma de acelerar o desenvolvimento de uma aplicação utilizando o React Native, podemos executar nossas aplicações através da web utilizando o [snack](https://snack.expo.io/) mas também podemos executar em nosso Smartphone baixando o app do expo, para utilizarmos o expo precisamos instalar o CLI dele para criarmos nossos apps através dele.
+
+## PropTypes 
+
+[Documentação PropTypes](https://github.com/facebook/prop-types)  
+
+PropTypes é uma forma de usarmos a própria biblioteca do React para documentar nosso código, com propTypes definimos qual é o nome do parâmetro e qual é o tipo de dado que ele recebe. 
