@@ -78,7 +78,7 @@ FlatList é muito similar a ScrollView porem é uma maneira mais performática d
 
 [Documentação Text lnput](https://reactnative.dev/docs/textinput.html)
 
-As entradas de dados são separadas por entrada de dados controladas e entrada de dados não controladas, entrada de dados controladas são a que cada vez que o valor mudar o React atualiza o lugar onde o valor está sendo mantido e assim consegue fica monitorando oque está havendo.
+As entradas de dados são separadas por componentes controlados e não controlados, componentes controlados são a que cada vez que o valor mudar o React atualiza o lugar onde o valor está sendo mantido e assim consegue fica monitorando oque está havendo, já os não controlados são os elementos em DOM por exemplo. 
 
 ```jsx
 import React, {useState} from 'react';
@@ -87,6 +87,6 @@ import { TextInput } from 'react-native';
 ...
 	const [nome, setNome] = useState('');
 		
-	<TextInput value={nome} onChange={nome => setNome(nome)}  />		
+	<TextInput value={nome} placeholder="Nome" onChange={nome => setNome(nome)}  />		
 ...
 ```

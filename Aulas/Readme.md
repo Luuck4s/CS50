@@ -11,3 +11,5 @@
 ### [:satellite: Aula 4 - React Native](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_4)
 
 ### [:dizzy: Aula 5 - Listas, Entrada de dados](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_5)
+
+### [:bug: Aula 6 - Entrada de dados, Debugging](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_6)
