@@ -15,3 +15,5 @@
 ### [:bug: Aula 6 - Entrada de dados, Debugging](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_6)
 
 ### [:seat: Aula 7 - Navegação](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_7)
+
+### [:moyai: Aula 8 - Data](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_8)
