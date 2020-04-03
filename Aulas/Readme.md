@@ -19,3 +19,5 @@
 ### [:moyai: Aula 8 - Data](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_8)
 
 ### [:sunglasses: Aula 9 - Componentes do Expo](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_9)
+
+### [:space_invader: Aula 10 - Redux](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_10)
