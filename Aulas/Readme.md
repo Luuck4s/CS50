@@ -23,3 +23,5 @@
 ### [:space_invader: Aula 10 - Redux](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_10)
 
 ### [:crystal_ball: Aula 11 - Redux Assíncrono](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_11)
+
+### [:stars: Aula 12 - Performance ](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_12)
