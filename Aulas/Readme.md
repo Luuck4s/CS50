@@ -25,3 +25,5 @@
 ### [:crystal_ball: Aula 11 - Redux Assíncrono](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_11)
 
 ### [:stars: Aula 12 - Performance ](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_12)
+
+### [:iphone: Aula 13 - Publicação e Teste](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/Aula_13)
