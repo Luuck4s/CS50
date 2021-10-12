@@ -5,11 +5,11 @@
 O computador utiliza o sistema binário para controlar todas as coisas, esse sistema consiste em representar os números utilizando apenas 0 e 1, por mais estranho que pareça as diferenças não são tão grandes.
 Veja o exemplo:
 ```
-      100       10         1
+100       10         1
       
-	    1        2         3
+	1        2         3
 	    
-	100 * 1   10 * 2    10 * 3
+100 * 1   10 * 2    10 * 3
 	
 ```
 
