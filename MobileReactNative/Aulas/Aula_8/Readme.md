@@ -7,7 +7,7 @@
 
 ## API
 
-[Exemplo de API (Rando User)](https://randomuser.me/)
+[Exemplo de API (Random User)](https://randomuser.me/)
 
 - Application Programming Interface [Interface de Programação de Aplicativos]
 - Podemos mandar e receber dados e com isso decidir o que queremos fazer 
