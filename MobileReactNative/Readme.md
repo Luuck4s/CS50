@@ -21,6 +21,6 @@ Este é um repositório do meu entendimento e anotações sobre o curso de Harva
 
 --- 
 
-<h5 align="center"> 🚀  CS50's Mobile App Development with React Native by Luuck4s 💜 </h5>
+<h5 align="center"> CS50's Mobile App Development with React Native by Luuck4s 💜 </h5>
 
 ---
