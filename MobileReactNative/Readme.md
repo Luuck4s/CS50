@@ -13,7 +13,7 @@ Este é um repositório do meu entendimento e anotações sobre o curso de Harva
 
 
 
-## [:books: Aulas](https://github.com/Luuck4s/CS50-Mobile-Development-RN/tree/master/Aulas/#books-aulas)
+## [:books: Aulas](https://github.com/Luuck4s/CS50/tree/master/MobileReactNative/Aulas/#books-aulas)
 
 
 
